@@ -93,6 +93,11 @@
   revision = "9831e1e25c874e0a0601b6dc43641071414eec7a"
 
 [[projects]]
+  name = "github.com/cloudscale-ch/cloudscale-go-sdk"
+  packages = ["."]
+  revision = "17fbddda00c87b73c5ceb601aeaced294748231b"
+
+[[projects]]
   name = "github.com/codegangsta/cli"
   packages = ["."]
   revision = "0302d3914d2a6ad61404584cdae6e6dbc9c03599"
