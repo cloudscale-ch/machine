@@ -35,6 +35,7 @@ _docker_machine_drivers() {
     local drivers=(
         amazonec2
         azure
+        cloudscale
         digitalocean
         exoscale
         generic
